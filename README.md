@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :mag: I'm actively looking for a job as a iOS Developer.
 
 - :pencil: Exploring Clear Code Writing.
