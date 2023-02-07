@@ -18,8 +18,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am an iOS Developer/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-- :mag: I'm actively developing as a iOS Developer.
+I am an iOS/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+- :mag: I'm actively developing as an iOS/Flutter Developer.
 
 - :pencil: Exploring Clear Code Writing.
 
