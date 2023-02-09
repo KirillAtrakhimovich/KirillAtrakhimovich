@@ -40,6 +40,8 @@ I am an iOS/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" alt="Sourcetree" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>
+  
 </div>
 
 ---
