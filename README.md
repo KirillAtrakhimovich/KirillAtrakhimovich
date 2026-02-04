@@ -50,4 +50,4 @@ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KirillAtrakhimovich&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KirillAtrakhimovich&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
