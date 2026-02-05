@@ -49,5 +49,3 @@ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KirillAtrakhimovich&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KirillAtrakhimovich&theme=github-dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA)
